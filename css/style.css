@@ -1,0 +1,33 @@
+div{
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+
+}
+.mellow{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, Sans-serif;
+}
+#main{
+    color: blue;
+    font-size: 36px;
+    background-color: white;
+}
+#main2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.button1{
+    background-color: black;
+    color: white;
+}
+.button2{
+    background-color: yellow;
+}
+.button1,.button2{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman',sans-serif;
+}
